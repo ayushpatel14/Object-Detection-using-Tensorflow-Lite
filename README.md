@@ -1,5 +1,5 @@
-# Object-Detection-using-Tensorflow-Lite
-Object Detection using Tensorflow Lite on Raspberry Pi 3 B+. 
+# Real-Time-Object-Detection-using-Tensorflow-Lite
+Object Detection using Tensorflow Lite on Raspberry Pi 3 B+ with pi cam. 
 
 This is a simple application of Tensorflow Lite Inference on an edge device using Python 3.7.The model used here is *coco_ssd_mobilenet_v1_1.0_quant_2018_06_29* hosted by [Tensorflow.org](https://www.tensorflow.org/lite/guide/hosted_models#object_detection)
 
